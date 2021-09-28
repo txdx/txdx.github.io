@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/txdx/txdx.github.io/releases/download/test/test.ipa</string>
+					<string>https://zhengwenming.github.io/AIHealth.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>消费管理</string>
+				<string>testz</string>
 			</dict>
 		</dict>
 	</array>
