@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://zhengwenming.github.io/image_57.png</string>
+					<string>https://txdx.github.io/a.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://zhengwenming.github.io/image_512.png</string>
+					<string>https://txdx.github.io/b.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.AixinCloudHealth</string>
+				<string>com.caet.consumeapp</string>
 				<key>bundle-version</key>
-				<string>2.1.4.0</string>
+				<string>1.1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>AIHealth</string>
+				<string>消费管理</string>
 			</dict>
 		</dict>
 	</array>
